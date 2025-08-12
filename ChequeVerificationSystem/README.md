@@ -1,6 +1,5 @@
-
----
-
+#Cheque Verification System
+## Semester Project
 ## 📜 Purpose of Each File and When to Use Them
 
 ### **`main.py`**
