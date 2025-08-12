@@ -1,4 +1,4 @@
-#Cheque Verification System
+# Cheque Verification System
 ## Semester Project
 ## 📜 Purpose of Each File and When to Use Them
 
@@ -51,9 +51,10 @@
   ```bash
   python src/display_cheques.py
 
+  ### 🛠 Installation
+
 ```
 git clone https://github.com/yourusername/cheque-verification-system.git
 cd ChequeVerificationSystem
 pip install opencv-python numpy pillow
 python main.py
-```
