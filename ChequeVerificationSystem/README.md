@@ -1,6 +1,6 @@
 # Cheque Verification System
 ## Semester Project
-## 📜 Purpose of Each File and When to Use Them
+##  Purpose of Each File and When to Use Them
 
 ### **`main.py`**
 - **Purpose**:  
@@ -50,6 +50,7 @@
   Run manually to inspect all stored data:
   ```bash
   python src/display_cheques.py
+  ```
 
   ### 🛠 Installation
 
